@@ -38,7 +38,7 @@ public class TestGame {
 
                 @Override
                 public void actionPerformed(ActionEvent e) {
-                    System.out.println("Hey, nice."); //To change body of generated methods, choose Tools | Templates.
+                    System.out.println("Hey, nice.");
                 }
             });
             
